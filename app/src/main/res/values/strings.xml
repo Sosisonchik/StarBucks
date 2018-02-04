@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">StarBucks</string>
+    <string name="coffees">Coffees</string>
+    <string name="foods">Foods</string>
+    <string-array name="products">
+        <item>Coffee</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    <string-array name="coffees">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Filter</item>
+    </string-array>
+    <string-array name="foods">
+        <item>Cake</item>
+        <item>Cookie</item>
+        <item>Muffin</item>
+    </string-array>
+</resources>
